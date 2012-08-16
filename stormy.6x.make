@@ -11,4 +11,4 @@ projects[] = storm_contrib
 projects[] = storm_dashboard
 
 ; time-tracking
-prjoects[] = storm_quicktt
+projects[] = storm_quicktt
